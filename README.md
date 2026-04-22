@@ -20,4 +20,8 @@ A simple frontend project built with **HTML, CSS, and JavaScript**.
 - Implemented task creation, completion tracking, and deletion using JavaScript  
 - Used localStorage to persist user data in the browser  
 
+## Screenshot
+
+<img width="1073" height="623" alt="image" src="https://github.com/user-attachments/assets/c87cc12f-b9d4-4a1b-bf79-09cc5c4224da" />
+
 
